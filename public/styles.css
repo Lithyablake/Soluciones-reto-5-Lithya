@@ -45,6 +45,15 @@ body {
   justify-content: space-between;
 }
 
+.no-more-pages-hidden {
+  text-align: center;
+  display: none;
+}
+
+.no-more-pages-showed {
+  display: block;
+}
+
 @keyframes fade {
   from {
     opacity: 0;

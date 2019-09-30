@@ -2,15 +2,15 @@
 
 Solución al reto 05 de Escuela de JavaScript
 
-Nombre:
-Usuario Platzi:
+Nombre: Mariana Cortés Rueda
+Usuario Platzi: LithyaBlake
 
 ## Ciudad
 - [ ] Ciudad de México
-- [ ] Bogotá
+- [X] Bogotá
 
 ## Reto:
-  - [ ] Primer problema
-  - [ ] Segundo problema
-  - [ ] Tercer problema
+  - [X] Primer problema
+  - [X] Segundo problema
+  - [X] Tercer problema
   - [ ] Cuarto Problema (Opcional)
